@@ -33,7 +33,7 @@ Employee turnover (attrition) directly impacts company productivity and hiring c
 ---
 
 ##  Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+https://github.com/swetasainiac-24/HR-Employee-Attrition-Excel-Dashboard/blob/main/dashboard_preview.png.png
 
 ---
 
